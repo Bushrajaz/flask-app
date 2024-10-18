@@ -1,0 +1,197 @@
+
+/* 14. Predefined classes for users
+-------------------------------------------------------------- */
+.texture_bg_green,
+.texture_bg_dark /*{
+    background-image: url('../images/logo_dark.png');
+}
+.texture_bg_blue,
+.texture_bg_light {
+    background-image: url('../images/bg_light.jpg');
+}
+.texture_bg_yellow {
+    background-image: url('..images/bg_yellow.jpg');
+}
+.texture_bg_slider:after,
+.texture_bg_slider_full:after {
+    content: ' ';
+    position: absolute;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    top: 0;
+    z-index: 1;
+    background: url(images/texture_top.png) center top repeat-x, url(images/texture_slider.png) left top repeat;
+}
+.texture_bg_slider_full:after {
+    background: url(images/texture_center.png) center center no-repeat, url(images/texture_top.png) center top repeat-x, url(images/texture_slider.png) left top repeat;
+}
+.texture_bg_1 {
+    background-image: url(images/bg/texture_1.png);
+}
+.texture_bg_2 {
+    background-image: url(images/bg/texture_2.png);
+}
+.texture_bg_3 {
+    background-image: url(images/bg/texture_3.png);
+}
+.texture_bg_4 {
+    background-image: url(images/bg/texture_4.png);
+}
+.texture_bg_5 {
+    background-image: url(images/bg/texture_5.png);
+}
+.texture_bg_6 {
+    background-image: url(images/bg/texture_6.png);
+}
+.texture_bg_7 {
+    background-image: url(images/bg/texture_7.png);
+}
+.texture_bg_8 {
+    background-image: url(images/bg/texture_8.png);
+}
+.texture_bg_9 {
+    background-image: url(images/bg/texture_9.png);
+}
+.texture_bg_10 {
+    background-image: url(images/bg/texture_10.png);
+}
+.texture_bg_11 {
+    background-image: url(images/bg/texture_11.png);
+}
+.texture_bg_12 {
+    background-image: url(images/bg/texture_12.png);
+}
+.overlay_bg_1:after {
+    content: ' ';
+    position: absolute;
+    left: 0;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    background-image: url(images/bg/texture_1.png);
+}
+.overlay_bg_2:after {
+    content: ' ';
+    position: absolute;
+    left: 0;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    background-image: url(images/bg/texture_2.png);
+}
+.overlay_bg_3:after {
+    content: ' ';
+    position: absolute;
+    left: 0;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    background-image: url(images/bg/texture_3.png);
+}
+.overlay_bg_4:after {
+    content: ' ';
+    position: absolute;
+    left: 0;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    background-image: url(images/bg/texture_4.png);
+}
+.overlay_bg_5:after {
+    content: ' ';
+    position: absolute;
+    left: 0;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    background-image: url(images/bg/texture_5.png);
+}
+.overlay_bg_6:after {
+    content: ' ';
+    position: absolute;
+    left: 0;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    background-image: url(images/bg/texture_6.png);
+}
+.overlay_bg_7:after {
+    content: ' ';
+    position: absolute;
+    left: 0;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    background-image: url(images/bg/texture_7.png);
+}
+.overlay_bg_8:after {
+    content: ' ';
+    position: absolute;
+    left: 0;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    background-image: url(images/bg/texture_8.png);
+}
+.overlay_bg_9:after {
+    content: ' ';
+    position: absolute;
+    left: 0;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    background-image: url(images/bg/texture_9.png);
+}
+.overlay_bg_10:after {
+    content: ' ';
+    position: absolute;
+    left: 0;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    background-image: url(images/bg/texture_10.png);
+}
+.overlay_bg_11:after {
+    content: ' ';
+    position: absolute;
+    left: 0;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    background-image: url(images/bg/texture_11.png);
+}
+.overlay_bg_12:after {
+    content: ' ';
+    position: absolute;
+    left: 0;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    background-image: url(images/bg/texture_12.png);
+}
+.bg_pattern_1 {
+    background: url(images/bg/pattern_1.jpg) 50% 50% repeat fixed!important;
+}
+.bg_pattern_2 {
+    background: url(images/bg/pattern_1170x700.jpg) 50% 50% repeat fixed!important;
+}
+.bg_pattern_3 {
+    background: url(images/bg/pattern_1170x700.jpg) 50% 50% repeat fixed!important;
+}
+.bg_pattern_4 {
+    background: url(images/bg/pattern_1170x700.jpg) 50% 50% repeat fixed!important;
+}
+.bg_pattern_5 {
+    background: url(images/bg/pattern_5.jpg) 50% 50% repeat fixed!important;
+}
+.bg_image_1 {
+    background: url(images/bg/image_1.jpg) 50% 0% repeat-y fixed!important;
+}
+.bg_image_2 {
+    background: url(images/bg/image_1170x700.jpg) 50% 0% repeat-y fixed!important;
+}
+.bg_image_3 {
+    background: url(images/bg/image_1170x700.jpg) 50% 0% repeat-y fixed!important;
+}
+*/
